@@ -1,0 +1,40 @@
+body{
+    min-height:100vh;
+    background:linear-gradient(rgba(0,0,0,.55),rgba(0,0,0,.55)),
+    url("../Image/1.jpg");
+    background-size:cover;
+    background-position:center;
+    font-family:'Segoe UI',sans-serif;
+}
+
+.profile-img{
+    width:140px;
+    height:140px;
+    object-fit:cover;
+    border-radius:50%;
+    border:5px solid white;
+}
+
+.card{
+    border-radius:20px;
+    background:rgba(255,255,255,.95);
+}
+
+.form-control,
+.form-select{
+    border-radius:10px;
+    height:48px;
+}
+
+.btn-primary{
+    border-radius:30px;
+    padding:12px 40px;
+}
+
+h1,h4,p{
+    color:white;
+}
+
+.result-card h1{
+    color:#198754;
+}
