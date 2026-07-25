@@ -31,18 +31,16 @@ https://machine-learning-project-1-43zd.onrender.com/predict
 
 ### Home Page
 
-> Add a screenshot here
-
+![alt text](image-3.png)
 ```
-images/home.png
+images/Homepage.jpg
 ```
 
 ---
 
 ### Prediction Result
 
-> Add a screenshot here
-
+![alt text](image-2.png)
 ```
 images/result.png
 ```
@@ -341,7 +339,7 @@ https://github.com/dhanush947
 
 LinkedIn
 
-(Add your LinkedIn URL)
+https://www.linkedin.com/in/dhanush-kumar-k-032199261/
 
 ---
 
